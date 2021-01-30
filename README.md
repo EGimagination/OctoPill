@@ -23,10 +23,15 @@ Museum Exhibits
  
 WHAT THE BOARD OFFERS
 -- 1 Motion Detector Input (To trigger your sequence)
+
 -- 1 Dry Contact Input (To trigger your sequence)
+
 -- 1 Play Button (To test your show sequence)
+
 -- 1 Serial MP3 Module Input (For high quality audio)
+
 -- Easy to use software (Buttonbanger.com's Octo Banger)
+
 -- Individual input and output configuration
 
 
