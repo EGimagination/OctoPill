@@ -1,0 +1,103 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Octoshield Rev B
+*Date=17:55:43
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;tactile-pth;20.2892;-15.2735;0;Bottom;S6
+2;;;31.7373;-16.3606;0;Bottom;Copper Fill25
+3;;;4.2545;-4.7528;0;Bottom;Copper Fill8
+4;;;6.28882;-9.28298;90;Bottom;IMG20
+5;;;31.7373;-17.91;0;Bottom;Copper Fill24
+6;;;8.0137;-1.3492;0;Bottom;Copper Fill46
+7;;;35.9664;-6.1879;0;Bottom;Copper Fill51
+8;;;23.5077;-18.3672;0;Bottom;Copper Fill52
+9;;;23.5077;-16.7162;0;Bottom;Copper Fill19
+10;;;68.6308;-6.734;0;Bottom;Copper Fill32
+11;;;40.6908;-3.9146;0;Bottom;Copper Fill34
+12;;;36.8173;-1.2222;0;Bottom;Copper Fill56
+13;;;73.9421;-14.4628;0;Bottom;Hole1
+14;;;37.1856;-9.5026;0;Bottom;Copper Fill1
+15;;;58.801;-15.2938;0;Bottom;Copper Fill29
+16;;;70.3372;-9.65483;-90;Bottom;IMG5
+17;;;74.0083;-4.65419;0;Bottom;Hole2
+18;;;70.3786;-3.37384;-90;Bottom;IMG19
+19;;;8.0137;-1.3492;0;Bottom;Copper Fill12
+20;;;21.8821;-3.0002;0;Bottom;Copper Fill48
+21;;;62.7958;-7.3693;0;Bottom;Via10
+22;;;11.5775;-12.5605;0;Bottom;IMG1
+23;;;53.3908;-3.9146;0;Bottom;Copper Fill38
+24;;;70.3044;-16.6613;-90;Bottom;IMG18
+25;;;5.1308;-5.6291;0;Bottom;Copper Fill44
+26;;;67.6812;-9.42416;0;Bottom;IMG13
+27;;THT;73.949;-9.5214;0;Bottom;S4
+28;;;45.7708;-3.9146;0;Bottom;Copper Fill36
+29;;;63.6778;-2.924;0;Bottom;Copper Fill41
+30;;;36.8173;-1.2222;0;Bottom;Copper Fill23
+31;;;44.8871;-11.8617;0;Bottom;IMG6
+32;;;49.5808;-3.9146;0;Bottom;Copper Fill37
+33;;;63.6261;-5.6826;0;Bottom;Via8
+34;;;7.112;-2.1747;0;Bottom;Copper Fill47
+35;;;36.8173;-2.7716;0;Bottom;Copper Fill22
+36;;;10.299;-4.119;0;Bottom;TXT1
+37;;;22.7838;-3.9019;0;Bottom;Copper Fill49
+38;;THT;4.31687;-9.40416;0;Bottom;J4
+39;;;75.438;-9.4772;0;Bottom;Copper Fill3
+40;;;38.3032;-16.0812;0;Bottom;Copper Fill26
+41;;;8.0137;-3.051;0;Bottom;Copper Fill45
+42;;;22.7838;-3.9019;0;Bottom;Copper Fill15
+43;;;24.3586;-17.5671;0;Bottom;Copper Fill55
+44;;;37.3225;-11.1419;0;Bottom;IMG6
+45;;;8.9408;-5.4386;0;Bottom;Copper Fill7
+46;;;51.1652;-8.35055;0;Bottom;TXT2
+47;;THT;20.3062;-3.34214;90;Bottom;J2
+48;;;23.5077;-18.3672;0;Bottom;Copper Fill18
+49;;;21.8821;-3.0002;0;Bottom;Copper Fill14
+50;;;43.2308;-3.9146;0;Bottom;Copper Fill35
+51;;;63.881;-7.0642;0;Bottom;Copper Fill5
+52;;;10.6308;-5.65956;0;Bottom;IMG17
+53;;;3.3528;-5.6291;0;Bottom;Copper Fill43
+54;;;29.9381;-7.62668;0;Bottom;Via4
+55;;;75.438;-9.4772;0;Bottom;Copper Fill30
+56;;;20.8107;-10.7571;0;Bottom;IMG15
+57;;;31.7373;-16.3606;0;Bottom;Copper Fill58
+58;;;40.64;-16.0812;0;Bottom;Copper Fill27
+59;;;27.6985;-9.61167;0;Bottom;Via1
+60;;;35.9664;-6.1879;0;Bottom;Copper Fill17
+61;;;4.2545;-4.7528;0;Bottom;Copper Fill42
+62;;;24.3586;-17.5671;0;Bottom;Copper Fill21
+63;;;31.7373;-17.91;0;Bottom;Copper Fill57
+64;;;5.1308;-5.6291;0;Bottom;Copper Fill10
+65;;;16.1798;-10.6456;0;Bottom;Copper Fill2
+66;;THT;10.5791;-2.09015;-90;Bottom;J3
+67;;;38.2016;-5.8958;0;Bottom;Copper Fill4
+68;;;3.3528;-5.6291;0;Bottom;Copper Fill9
+69;;;36.8681;-7.0896;0;Bottom;Copper Fill16
+70;;;55.9308;-3.9146;0;Bottom;Copper Fill39
+71;;;47.0202;-9.50607;-90;Bottom;Part1
+72;;;19.9874;-8.29527;0;Bottom;IMG14
+73;;;34.671;-9.5026;0;Bottom;Copper Fill40
+74;;THT;48.339;-6.13158;-90;Bottom;J1
+75;;;7.112;-2.1747;0;Bottom;Copper Fill13
+76;;;7.86509;-9.28092;90;Bottom;IMG16
+77;;;23.5077;-16.7162;0;Bottom;Copper Fill53
+78;;;68.4784;-8.893;0;Bottom;Copper Fill31
+79;;;43.18;-16.0812;0;Bottom;Copper Fill28
+80;;;62.8991;-3.97064;0;Bottom;Via11
+81;;;69.1896;-3.7368;0;Bottom;Copper Fill33
+82;;;24.0281;-7.57754;0;Bottom;Via5
+83;;;36.8681;-7.0896;0;Bottom;Copper Fill50
+84;;;22.6314;-17.5671;0;Bottom;Copper Fill54
+85;;;22.6314;-17.5671;0;Bottom;Copper Fill20
+86;;tactile-pth;20.2892;-15.2735;0;Bottom;S6
+87;;;8.0137;-3.051;0;Bottom;Copper Fill11
+88;;;62.0268;-6.1244;0;Bottom;Copper Fill6
